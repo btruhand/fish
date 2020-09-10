@@ -41,7 +41,7 @@
     "mocha": "1.15.1",
     "mocha-lcov-reporter": "0.0.2",
     "should": "2.1.1",
-    "superagent": "0.15.7",
+    "superagent": "6.1.0",
     "supertest": "0.8.2"
   },
   "engines": {
